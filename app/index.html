@@ -34,11 +34,8 @@
     <div class="view">
         <h2>First View</h2>
         <p>
-            Search:<input type="text" ng-model="filterText" />
+            This is the first view
         </p>
-        <ul class="nav nav-pills">
-            <li ng-repeat="cust in customers | orderBy:'name' | filter: filterText "><a href="#">{{cust.name}} - {{cust.school}}</a></li>
-        </ul>
     </div>
 </script>
 
@@ -46,11 +43,8 @@
     <div class="view">
         <h2>Second View</h2>
         <p>
-           Search:<input type="text" ng-model="filterText" />
+           This is the second view
         </p>
-        <ul class="nav nav-pills">
-            <li ng-repeat="cust in customers | orderBy:'name' | filter: filterText "><a href= "#">{{cust.name}} - {{cust.school}}</a></li>
-        </ul>
     </div>
 </script>
 
