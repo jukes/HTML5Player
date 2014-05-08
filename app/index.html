@@ -20,8 +20,8 @@
 </head>
 <body>
   <ul class="menu">
-    <li><a href="#/view1">view1</a></li>
-    <li><a href="#/view2">view2</a></li>
+    <li><a href="#/mainPlayer">Main Player</a></li>
+    <li><a href="#/playList">Play List</a></li>
   </ul>
 
   <!--[if lt IE 7]>
@@ -30,20 +30,20 @@
 
   <div ng-view>
   
-  <script type="text/ng-template" id="partials/partial1.html">
+  <script type="text/ng-template" id="mainPlayer.html">
     <div class="view">
-        <h2>First View</h2>
+        <h2>Main Player</h2>
         <p>
-            This is the first view
+            This is the main player
         </p>
     </div>
 </script>
 
-<script type="text/ng-template" id="partials/partial2.html">
+<script type="text/ng-template" id="playList.html">
     <div class="view">
-        <h2>Second View</h2>
+        <h2>Play List</h2>
         <p>
-           This is the second view
+           This is the playlist
         </p>
     </div>
 </script>
