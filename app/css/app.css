@@ -1,4 +1,6 @@
-/* app css stylesheet */
+.vcenter {    
+    vertical-align: middle;    
+}
 
 .menu {
   list-style: none;

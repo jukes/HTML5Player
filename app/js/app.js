@@ -3,6 +3,7 @@
 
 // Declare app level module which depends on filters, and services
 angular.module('HTML5Player', [
+  'ui.bootstrap',
   'ngRoute',
   'HTML5Player.filters',
   'HTML5Player.services',
