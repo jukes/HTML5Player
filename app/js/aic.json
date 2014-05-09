@@ -1,0 +1,200 @@
+{
+    "artist": {
+        "name": "Alice in Chains",
+        "mbid": "4bd95eea-b9f6-4d70-a36c-cfea77431553",
+        "bandmembers": {
+            "member": [{
+                    "name": "Jerry Cantrell",
+                    "yearfrom": "1987"
+                }, {
+                    "name": "Layne Staley",
+                    "yearfrom": "1987",
+                    "yearto": "2002"
+                }, {
+                    "name": "Mike Starr",
+                    "yearfrom": "1987",
+                    "yearto": "1993"
+                }, {
+                    "name": "Sean Kinney",
+                    "yearfrom": "1987"
+                }, {
+                    "name": "Mike Inez",
+                    "yearfrom": "1993"
+                }, {
+                    "name": "Jerry Cantrell",
+                    "yearfrom": "2005"
+                }, {
+                    "name": "Mike Inez",
+                    "yearfrom": "2005"
+                }, {
+                    "name": "Sean Kinney",
+                    "yearfrom": "2005"
+                }, {
+                    "name": "William Duvall",
+                    "yearfrom": "2006"
+                }]
+        },
+        "url": "http:\/\/www.last.fm\/music\/Alice+in+Chains",
+        "image": [{
+                "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/342195.jpg",
+                "size": "small"
+            }, {
+                "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/342195.jpg",
+                "size": "medium"
+            }, {
+                "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/342195.jpg",
+                "size": "large"
+            }, {
+                "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/342195.jpg",
+                "size": "extralarge"
+            }, {
+                "#text": "http:\/\/userserve-ak.last.fm\/serve\/500\/342195\/Alice+in+Chains.jpg",
+                "size": "mega"
+            }],
+        "streamable": "0",
+        "ontour": "1",
+        "stats": {
+            "listeners": "1718006",
+            "playcount": "63137998"
+        },
+        "similar": {
+            "artist": [{
+                    "name": "Mad Season",
+                    "url": "http:\/\/www.last.fm\/music\/Mad+Season",
+                    "image": [{
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/83783431.jpg",
+                            "size": "small"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/83783431.jpg",
+                            "size": "medium"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/83783431.jpg",
+                            "size": "large"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/83783431.jpg",
+                            "size": "extralarge"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/500\/83783431\/Mad+Season.jpg",
+                            "size": "mega"
+                        }]
+                }, {
+                    "name": "Jerry Cantrell",
+                    "url": "http:\/\/www.last.fm\/music\/Jerry+Cantrell",
+                    "image": [{
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/11093393.jpg",
+                            "size": "small"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/11093393.jpg",
+                            "size": "medium"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/11093393.jpg",
+                            "size": "large"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/11093393.jpg",
+                            "size": "extralarge"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/11093393\/Jerry+Cantrell+7001177.jpg",
+                            "size": "mega"
+                        }]
+                }, {
+                    "name": "Soundgarden",
+                    "url": "http:\/\/www.last.fm\/music\/Soundgarden",
+                    "image": [{
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/4376762.jpg",
+                            "size": "small"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/4376762.jpg",
+                            "size": "medium"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/4376762.jpg",
+                            "size": "large"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/4376762.jpg",
+                            "size": "extralarge"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/500\/4376762\/Soundgarden+26861.jpg",
+                            "size": "mega"
+                        }]
+                }, {
+                    "name": "Temple of the Dog",
+                    "url": "http:\/\/www.last.fm\/music\/Temple+of+the+Dog",
+                    "image": [{
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/51553909.jpg",
+                            "size": "small"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/51553909.jpg",
+                            "size": "medium"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/51553909.jpg",
+                            "size": "large"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/51553909.jpg",
+                            "size": "extralarge"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/_\/51553909\/Temple+of+the+Dog+templedog.jpg",
+                            "size": "mega"
+                        }]
+                }, {
+                    "name": "Mother Love Bone",
+                    "url": "http:\/\/www.last.fm\/music\/Mother+Love+Bone",
+                    "image": [{
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/34\/29817111.png",
+                            "size": "small"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/64\/29817111.png",
+                            "size": "medium"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/126\/29817111.png",
+                            "size": "large"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/252\/29817111.png",
+                            "size": "extralarge"
+                        }, {
+                            "#text": "http:\/\/userserve-ak.last.fm\/serve\/500\/29817111\/Mother+Love+Bone.png",
+                            "size": "mega"
+                        }]
+                }]
+        },
+        "tags": {
+            "tag": [{
+                    "name": "grunge",
+                    "url": "http:\/\/www.last.fm\/tag\/grunge"
+                }, {
+                    "name": "rock",
+                    "url": "http:\/\/www.last.fm\/tag\/rock"
+                }, {
+                    "name": "alternative rock",
+                    "url": "http:\/\/www.last.fm\/tag\/alternative%20rock"
+                }, {
+                    "name": "hard rock",
+                    "url": "http:\/\/www.last.fm\/tag\/hard%20rock"
+                }, {
+                    "name": "alternative",
+                    "url": "http:\/\/www.last.fm\/tag\/alternative"
+                }]
+        },
+        "bio": {
+            "links": {
+                "link": {
+                    "#text": "",
+                    "rel": "original",
+                    "href": "http:\/\/www.last.fm\/music\/Alice+in+Chains\/+wiki"
+                }
+            },
+            "published": "Thu, 6 Feb 2014 20:41:32 +0000",
+            "summary": "\n                Alice in Chains are a <a href=\"http:\/\/www.last.fm\/tag\/heavy%20metal\" class=\"bbcode_tag\" rel=\"tag\">heavy metal<\/a>\/<a href=\"http:\/\/www.last.fm\/tag\/grunge\" class=\"bbcode_tag\" rel=\"tag\">grunge<\/a> band which formed in 1987 in Seattle, Washington, United States. Drawing equally from the heavy riffing of <a href=\"http:\/\/www.last.fm\/tag\/metal\" class=\"bbcode_tag\" rel=\"tag\">metal<\/a> and the gloomy strains of <a href=\"http:\/\/www.last.fm\/tag\/grunge\" class=\"bbcode_tag\" rel=\"tag\">grunge<\/a>, the band developed a bleak, nihilistic sound that balanced grinding metallic riffs with subtly textured <a href=\"http:\/\/www.last.fm\/tag\/acoustic\" class=\"bbcode_tag\" rel=\"tag\">acoustic<\/a> numbers. They were hard enough for <a href=\"http:\/\/www.last.fm\/tag\/metal\" class=\"bbcode_tag\" rel=\"tag\">metal<\/a> fans, yet their dark subject matter and <a href=\"http:\/\/www.last.fm\/tag\/punk\" class=\"bbcode_tag\" rel=\"tag\">punk<\/a>y attack placed them among the front ranks of the Seattle-based <a href=\"http:\/\/www.last.fm\/tag\/grunge\" class=\"bbcode_tag\" rel=\"tag\">grunge<\/a> bands. While this dichotomy helped the group soar to multi-platinum status with their second album, 1992's <a title=\"Alice in Chains - Dirt\" href=\"http:\/\/www.last.fm\/music\/Alice+in+Chains\/Dirt\" class=\"bbcode_album\">Dirt<\/a>, it also divided them.\n\n        <a href=\"http:\/\/www.last.fm\/music\/Alice+in+Chains\">Read more about Alice in Chains on Last.fm<\/a>.\n    \n    ",
+            "content": "\n                    Alice in Chains are a <a href=\"http:\/\/www.last.fm\/tag\/heavy%20metal\" class=\"bbcode_tag\" rel=\"tag\">heavy metal<\/a>\/<a href=\"http:\/\/www.last.fm\/tag\/grunge\" class=\"bbcode_tag\" rel=\"tag\">grunge<\/a> band which formed in 1987 in Seattle, Washington, United States. Drawing equally from the heavy riffing of <a href=\"http:\/\/www.last.fm\/tag\/metal\" class=\"bbcode_tag\" rel=\"tag\">metal<\/a> and the gloomy strains of <a href=\"http:\/\/www.last.fm\/tag\/grunge\" class=\"bbcode_tag\" rel=\"tag\">grunge<\/a>, the band developed a bleak, nihilistic sound that balanced grinding metallic riffs with subtly textured <a href=\"http:\/\/www.last.fm\/tag\/acoustic\" class=\"bbcode_tag\" rel=\"tag\">acoustic<\/a> numbers. They were hard enough for <a href=\"http:\/\/www.last.fm\/tag\/metal\" class=\"bbcode_tag\" rel=\"tag\">metal<\/a> fans, yet their dark subject matter and <a href=\"http:\/\/www.last.fm\/tag\/punk\" class=\"bbcode_tag\" rel=\"tag\">punk<\/a>y attack placed them among the front ranks of the Seattle-based <a href=\"http:\/\/www.last.fm\/tag\/grunge\" class=\"bbcode_tag\" rel=\"tag\">grunge<\/a> bands. While this dichotomy helped the group soar to multi-platinum status with their second album, 1992's <a title=\"Alice in Chains - Dirt\" href=\"http:\/\/www.last.fm\/music\/Alice+in+Chains\/Dirt\" class=\"bbcode_album\">Dirt<\/a>, it also divided them.\n\n        <a href=\"http:\/\/www.last.fm\/music\/Alice+in+Chains\">Read more about Alice in Chains on Last.fm<\/a>.\n    \n    \nUser-contributed text is available under the Creative Commons By-SA License and may also be available under the GNU FDL.\n    ",
+            "placeformed": "Seattle",
+            "yearformed": "1987",
+            "formationlist": {
+                "formation": [{
+                        "yearfrom": "1987",
+                        "yearto": "2002"
+                    }, {
+                        "yearfrom": "2005",
+                        "yearto": ""
+                    }]
+            }
+        }
+    }
+}

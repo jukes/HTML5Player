@@ -15,3 +15,12 @@ config(['$routeProvider', function($routeProvider) {
   $routeProvider.when('/playList', {templateUrl: 'playList.html', controller: 'PlayList'});
   $routeProvider.otherwise({redirectTo: '/mainPlayer'});
 }]);
+
+/**
+ * Last FM API: 
+ * API Key: 91d269af490e2861bde6e5c32c171b76
+ * Secret: is 87550d1623b08463c1bb83cd4afea262
+ * 
+ * http://ws.audioscrobbler.com/2.0/?method=artist.getInfo&artist=U2&format=json&api_key=91d269af490e2861bde6e5c32c171b76
+ * 
+ */
