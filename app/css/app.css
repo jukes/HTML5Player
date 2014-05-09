@@ -1,5 +1,47 @@
+
+.bgColorr{
+    background-color: #23241f;
+}
+
+.pTextColor{
+    color: #e6db74;
+}
+
+.pMarginSmall{
+    margin: 3px;
+}
+.pMarginMed{
+    margin: 5px;
+}
+.pMarginBig{
+    margin: 8px;
+}
+
+.pInline{
+    display: inline-block;
+}
+
+.pSongTitle{
+    font-size: large;
+    font-weight: bold;
+}
+.pArtistName{
+    font-size: medium;    
+}
+.pAlbum{
+    font-size: small;
+}
+
 .vcenter {    
     vertical-align: middle;    
+}
+
+.vTop {    
+    vertical-align: top;    
+}
+
+.width100{
+    width: 100%;
 }
 
 .menu {
