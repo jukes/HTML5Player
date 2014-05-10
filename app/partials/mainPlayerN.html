@@ -1,0 +1,77 @@
+<div class="container bgColorr pBorder pTextColor" ng-controller="MainPlayer">
+    <div class="row pBorder">
+        <div class="col-xs-9 pBorder">
+            <div class="row pBorder">
+                <div class="col-xs-6 pBorder">
+                    <div class="pMarginBig">
+                        <img src="{{albumArt.src}}" width="{{albumArt.w}}" height="{{albumArt.h}}" />
+                    </div>
+                </div>
+                <div class="col-xs-6 pBorder">
+                    <div class="pMarginBig">
+                        <p class="pSongTitle pTextColor">{{currentTrack.title}}</p>
+                        <p class="pArtistName pTextColor">{{currentTrack.artist}}</p>                                
+                        <p class="pAlbum pTextColor">{{currentTrack.album}}</p>
+                        <p class="pAlbum pTextColor">{{currentTrack.year}}</p>
+                    </div>
+                </div>
+            </div>
+            <div class="row pBorder">
+                <div class="col-xs-6 col-xs-offset-3 centered pBorder">
+                    <div class="pMarginMed text-center">
+                        05:27/08:21
+                    </div>
+                </div>
+            </div>
+            <div class="row pBorder">
+                <div class="pMarginBig">
+                    <progressbar class="progress-striped active" value="65" type="danger"></progressbar>
+                </div>
+            </div>
+            <div class="row pBorder">
+                <div class="pMarginBig text-center">
+                    <button class="btn btn-default btn-xs glyphicon glyphicon-repeat"> </button>
+                    <button class="btn btn-default btn-xs glyphicon glyphicon-random"> </button>
+                    <button class="btn btn-primary btn-sm glyphicon glyphicon-fast-backward"> </button>
+                    <button class="btn btn-primary btn-lg glyphicon glyphicon-play"> </button>
+                    <button class="btn btn-primary btn-sm glyphicon glyphicon-fast-forward"> </button>
+                    <button class="btn btn-default btn-xs glyphicon glyphicon-list"> </button>
+                    <button class="btn btn-default btn-xs glyphicon glyphicon-volume-up"> </button>
+                </div>
+            </div>
+        </div>
+        <div class="col-xs-3 pBorder">
+            <h3>Pepper</h3>
+            <p>                
+                Marky got with Sharon, Sharon got Sherice
+                She was sharin' Sharon's outlook on the topic of disease
+                Mikey had a facial scar, and Bobby was a racist
+                They were all in love with dyin', they were doin' it in Texas
+
+                Tommy played piano like a kid out in the rain
+                Then he lost his leg in Dallas, he was dancin' with a train
+                They were all in love with dyin', they were drinking from a fountain
+                That was pourin' like an avalanche comin' down the mountain
+
+                I don't mind the sun sometimes, the images it shows
+                I can taste you on my lips and smell you in my clothes
+                Cinnamon and sugary and softly spoken lies
+                You never know just how to look through other people's eyes
+
+                Some will die in hot pursuit in fiery auto crashes
+                Some will die in hot pursuit while sifting through my ashes
+                Some will fall in love with life and drink it from a fountain
+                That is pouring like an avalanche comin' down the mountain
+
+                I don't mind the sun sometimes, the images it shows
+                I can taste you on my lips and smell you in my clothes
+                Cinnamon and sugary and softly spoken lies
+                You never know just how you look through other people's eyes
+
+                Another Mikey took a knife while arguing in traffic
+                Flipper died a natural death, he caught a nasty virus
+                Then there was the ever present football player-rapist
+            </p>
+        </div>
+    </div>
+</div>

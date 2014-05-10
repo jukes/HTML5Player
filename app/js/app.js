@@ -11,7 +11,7 @@ angular.module('HTML5Player', [
   'HTML5Player.controllers'
 ]).
 config(['$routeProvider', function($routeProvider) {
-  $routeProvider.when('/mainPlayer', {templateUrl: 'mainPlayer.html', controller: 'MainPlayer'});
+  $routeProvider.when('/mainPlayer', {templateUrl: 'partials/mainPlayerN.html', controller: 'MainPlayer'});
   $routeProvider.when('/playList', {templateUrl: 'playList.html', controller: 'PlayList'});
   $routeProvider.otherwise({redirectTo: '/mainPlayer'});
 }]);

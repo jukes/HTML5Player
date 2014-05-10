@@ -21,6 +21,10 @@
     display: inline-block;
 }
 
+.pBorder{
+    border: solid #e6db74 thin;
+}
+
 .pSongTitle{
     font-size: large;
     font-weight: bold;
